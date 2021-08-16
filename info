@@ -18,3 +18,29 @@ brew install git;
 brew install rectangle;
 
 
+
+mkdir ~/
+
+
+
+ln -s
+
+## reset
+git@github.com:longhoanggiang/jetbrains-reset-trial-evaluation-mac.git
+
+chmod +x runme.sh
+./runme.sh --prepare-env
+
+launchctl unload ~/Library/LaunchAgents/com.jetbrains.reset.plist
+
+// vim
+git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+
+// -- udpate
+cd ~/.vim_runtime
+git reset --hard
+git clean -d --force
+git pull --rebase
+python update_plugins.py  # use python3 if python is unavailable
+
