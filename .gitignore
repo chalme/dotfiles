@@ -1,5 +1,6 @@
 
-zed/.tmp*  # zed tmp files
-zed/conversations/  # zed conversations
-zed/embeddings/  # zed embeddings
-zed/themes/  # zed themes
+# zed
+zed/.tmp*
+zed/conversations/
+zed/embeddings/
+zed/themes/
