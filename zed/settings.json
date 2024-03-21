@@ -7,8 +7,7 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
+  "theme": "macOS Classic Dark",
   "base_keymap": "JetBrains",
-  "vim_mode": false,
-  "ui_font_size": 16,
-  "buffer_font_size": 16
+  "vim_mode": false
 }
