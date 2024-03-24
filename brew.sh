@@ -21,6 +21,8 @@ brew install wrk;
 brew install colima
 brew install docker
 
+## mackup
+brew install mackup
 
 
 
