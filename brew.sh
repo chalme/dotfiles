@@ -9,6 +9,22 @@ else
 fi
 
 brew update
+brew upgrade
+
+# cli
+## search file
+brew install fzf;
+## HTTP benchmarking tool
+brew install wrk;
+
+## container
+brew install colima
+brew install docker
+
+
+
+
+
 
 # tool
 brew install --cask alt-tab
@@ -40,6 +56,7 @@ brew install --cask calibre
 
 # note
 brew install --cask logseq
+brew install --cask affine
 
 # download
 brew install --cask motrix
@@ -50,6 +67,9 @@ bash <(curl -sSL https://spotx-official.github.io/run.sh) -B --installmac
 # chatgpt
 brew tap lencx/chatgpt https://github.com/lencx/ChatGPT.git
 brew install --cask chatgpt --no-quarantine
+
+# image uploader
+brew install --cask picgo
 
 
 
