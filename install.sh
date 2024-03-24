@@ -12,4 +12,4 @@ fi
 # link .mackup.cfg to home directory
 ln -sfn $PWD/.mackup.cfg ~/
 
-makeup restore
+mackup restore
