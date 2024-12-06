@@ -34,7 +34,7 @@ brew install --cask hammerspoon
 brew install --cask raycast
 brew install --cask betterdisplay
 brew install --cask hiddenbar
-brew install --cask snipaste
+brew install --cask pixpin
 brew install --cask iina
 brew install --cask stats
 
