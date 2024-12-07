@@ -22,22 +22,22 @@ brew install colima
 brew install docker
 
 ## mackup
-brew install mackup
+# brew install mackup
 
 
 
 
 
 # tool
-brew install --cask alt-tab
+# brew install --cask alt-tab
 brew install --cask hammerspoon
 brew install --cask raycast
-brew install --cask betterdisplay
-brew install --cask hiddenbar
+# brew install --cask betterdisplay
+brew install jordanbaird-ice
 brew install --cask pixpin
 brew install --cask iina
 brew install --cask stats
-
+brew install --cask google-drive
 
 # browser
 brew install --cask google-chrome
@@ -57,8 +57,8 @@ brew install --cask netnewswire
 brew install --cask calibre
 
 # note
-brew install --cask logseq
-brew install --cask affine
+# brew install --cask octarine
+# https://octarine.app/
 
 # download
 brew install --cask motrix
@@ -67,11 +67,10 @@ brew install --cask motrix
 bash <(curl -sSL https://spotx-official.github.io/run.sh) -B --installmac
 
 # chatgpt
-brew tap lencx/chatgpt https://github.com/lencx/ChatGPT.git
-brew install --cask chatgpt --no-quarantine
+brew install --cask chatgpt
 
 # image uploader
-brew install --cask picgo
+brew install --cask piclist
 
 
 

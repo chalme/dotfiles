@@ -1,0 +1,5 @@
+git clone https://github.com/chalme/keyboard.git ~/.keyboard
+
+cd ~/.keyboard
+
+script/setup
