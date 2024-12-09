@@ -25,9 +25,6 @@ brew install docker
 # brew install mackup
 
 
-## test
-
-
 # tool
 # brew install --cask alt-tab
 brew install --cask hammerspoon
