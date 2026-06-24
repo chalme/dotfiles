@@ -30,7 +30,7 @@ brew install docker
 brew install --cask hammerspoon
 brew install --cask raycast
 # brew install --cask betterdisplay
-brew install jordanbaird-ice
+brew install --cask jordanbaird-ice
 brew install --cask pixpin
 brew install --cask iina
 brew install --cask stats
